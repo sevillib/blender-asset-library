@@ -9,7 +9,7 @@
         "construction/door_builder.blend"
       ],
       "bl_versions": {
-        "min": "5.3"
+        "min": "5.2"
       },
       "thumbnail": {
         "url": "construction/door_builder_thumbnails/Object/door-builder.webp",
@@ -31,9 +31,9 @@
   "files": [
     {
       "path": "construction/door_builder.blend",
-      "size_in_bytes": 15837174,
-      "hash": "SHA256:901cbe6c78daf75b9a851d70aff91a599730f4f0fc418f9dd1b666e57f511a62",
-      "blender_version": "5.3.21"
+      "size_in_bytes": 15854260,
+      "hash": "SHA256:884490c0a3b4d8c7e18372ddfd3cc248123196d4109097220afbed472cf228b9",
+      "blender_version": "5.2.44"
     }
   ]
 }
