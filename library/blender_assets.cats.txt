@@ -1,0 +1,4 @@
+# This is an Asset Catalog Definition file for Blender.
+VERSION 1
+
+96057a27-7f66-4e35-825d-2185ddd48cdc:Architecture/Doors:Architecture-Doors

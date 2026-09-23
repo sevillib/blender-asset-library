@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:ab13a8de4557d361460b62367f35a2ade2b5a91856e05a2bc175e31ba8f806f6"
+    }
+  },
+  "name": "William Ives Asset Library",
+  "contact": {
+    "name": "William Ives",
+    "url": "https://sevillib.github.io/blender-asset-library/",
+    "email": "37885083+sevillib@users.noreply.github.com"
+  }
+}

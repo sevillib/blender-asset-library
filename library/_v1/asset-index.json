@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 15848671,
+  "asset_count": 1,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:7d406064de88b7d636486d2a1dee10710d430c2dd3d32cd840be2a1e94def54a"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Architecture/Doors",
+      "uuids": [
+        "96057a27-7f66-4e35-825d-2185ddd48cdc"
+      ],
+      "simple_name": "Architecture-Doors"
+    }
+  ]
+}
