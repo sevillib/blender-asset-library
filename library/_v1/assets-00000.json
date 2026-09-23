@@ -9,14 +9,14 @@
         "construction/door_builder.blend"
       ],
       "bl_versions": {
-        "min": "5.2"
+        "min": "5.3"
       },
       "thumbnail": {
         "url": "construction/door_builder_thumbnails/Object/door-builder.webp",
         "hash": "SHA256:7a86c83d2271f8a188cbd61dff0f612e1c8f8396f64b5e62bce92be5ad937d1f"
       },
       "meta": {
-        "catalog_id": "96057a27-7f66-4e35-825d-2185ddd48cdc",
+        "catalog_id": "789df31a-1ff7-4ab7-b6ea-4865e317e738",
         "tags": [
           "door",
           "geometry nodes",
@@ -31,9 +31,9 @@
   "files": [
     {
       "path": "construction/door_builder.blend",
-      "size_in_bytes": 15848671,
-      "hash": "SHA256:4f841d8de0167c8a2cd758fd2aa9a51c96336532a6e8e81bf7b3cdbd0569b916",
-      "blender_version": "5.2.44"
+      "size_in_bytes": 15837174,
+      "hash": "SHA256:901cbe6c78daf75b9a851d70aff91a599730f4f0fc418f9dd1b666e57f511a62",
+      "blender_version": "5.3.21"
     }
   ]
 }
