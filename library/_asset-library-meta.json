@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:ab13a8de4557d361460b62367f35a2ade2b5a91856e05a2bc175e31ba8f806f6"
+      "hash": "SHA256:550bb00e82f00ebdd566324539476fe86cd863f9965d5f8cfdfd856c6c19b6d8"
     }
   },
   "name": "William Ives Asset Library",
